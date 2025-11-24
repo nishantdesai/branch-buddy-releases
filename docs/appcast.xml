@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Branch Buddy</title>
+    <link>https://nishantdesai.github.io/branch-buddy-releases/appcast.xml</link>
+    <description>Branch Buddy watches your git repos from the menu bar and opens your favorite projects in a single click.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0 (Beta 7)</title>
+      <pubDate>Mon, 24 Nov 2025 13:35:00 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://nishantdesai.github.io/branch-buddy-releases/release-notes.html</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/nishantdesai/branch-buddy-releases/releases/download/v1.0.0-beta.7/BranchBuddy-1.0.0-beta.7.zip"
+        length="3138740"
+        type="application/octet-stream"
+        sparkle:edSignature="6amxi4uBa5HmTvUn+jbhd685FVkgDiO3on3h85Az3ebTeDQJvyPXitg3OOWL936rb7iu7tTrs2Qj3wOIBN/bDQ=="
+      />
+    </item>
+  </channel>
+</rss>
