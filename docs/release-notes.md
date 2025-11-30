@@ -1,3 +1,10 @@
+## 1.0.0 (Beta 8) – 30 Nov 2025 {#1-0-0-beta-8-30-nov-2025}
+
+### New
+
+- New menu bar icon + refreshed app icon.
+- Brand-new onboarding flow walks people through finding the menu bar icon, adding repositories, choosing launch apps and customizing the experience. You can relaunch the welcome flow anytime from **Preferences → General → Show Welcome Screen…**
+
 ## 1.0.0 (Beta 7) – 24 Nov 2025 {#1-0-0-beta-7-24-nov-2025}
 
 ### New
